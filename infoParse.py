@@ -3,7 +3,7 @@ import re
 import os
 import time
 import sqlite3
-import "LogTypes.py"
+import LogTypes
 
 ###	
 ###	This class is set up to process a single .log file, and create new files
